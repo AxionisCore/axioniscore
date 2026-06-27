@@ -60,4 +60,4 @@ More information will be added as the project evolves.
 
 ---
 
-> AxionisCore — Center of Truth and Safety
+> AxionisCore — Center of Truth
